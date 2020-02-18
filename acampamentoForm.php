@@ -12,7 +12,7 @@
 </head>
 <body>
     <h1>Acampamento</h1>
-    <form action="#" method="get">
+    <form action="acampamento.php" method="get">
         Nome: <input type="text" name="nome" id=""> <br>
         Equipe: <input type="text" name="equipe" id=""> <br>
         Idade: <input type="text" name="idade" id=""> <br>
